@@ -1,0 +1,55 @@
+body {
+    background-color: white;
+  }
+  h1 {
+    color: dark;
+    text-align: center;
+  }
+  #one{
+    color: red;
+  } 
+  #two{
+    color:blue;
+  }
+  #three{
+    color:green;
+  }
+  #four{
+    font-size: 50px;
+  }
+  #five{
+    font-size: 7.5px;
+  }
+  #six{
+    text-align: right;
+  }
+  #seven{
+    font-weight: bold;
+  }
+  #eight{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+  }  
+  #nine{
+    font-size: x-large;
+    color: orange;
+    font-weight: bolder;
+  }
+  .styledFont {
+    color: green;
+  }
+  #styledImage {
+    border-style: double;
+    border: 10px sandybrown;
+    padding: 10cm;
+    border-image: url(border.png) 20 stretch;
+  }
+  #styledImage {
+  width: 200px;
+  height: 200px;
+  border: 10px solid;
+  border-color: orange;
+  padding: 5px;
+  justify-content: center;
+  border-image-source: image"(https://tse4.mm.bing.net/th?id=OIP.8Qb6WpM2LYB8KPV-_1t7mgAAAA&pid=Api)";
+  }

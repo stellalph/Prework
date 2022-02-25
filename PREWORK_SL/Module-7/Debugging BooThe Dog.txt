@@ -1,0 +1,18 @@
+BooTheDog.html
+
+1) Fix the indentation and the line breaks
+2) Insert <h1></h1> tag for Boo The Fan Page!
+3) Insert <p></p>, <img class> for proper display and image
+4) Insert <li></li> for proper listing of Boo's Favorite Things
+5) Insert various apprioriate tags
+6) Insert comment for link to Javascript file.
+
+javascript.js
+
+1) Insert description /comment for easier identification
+2) Insert the required symbols (" ") eg. on click, pink and
+ on the booFactArray.
+
+style.css
+
+No changes made.
